@@ -64,8 +64,9 @@ A Front-end engineer with more couple of years experience in developing web appl
 
 
   </a>
-
+  <a href="https://github.com/amirnsamimi">
      <img width="49%" height="108em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirnsamimi&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+      </a>
 </div>
 ![Amir Samimi's's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirnsamimi&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97)
 
