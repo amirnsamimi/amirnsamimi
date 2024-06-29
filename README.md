@@ -58,8 +58,8 @@ A Front-end engineer with more couple of years experience in developing web appl
 
 <div align="center">
   <a href="https://github.com/amirnsamimi">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirnsamimi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirnsamimi&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirnsamimi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirnsamimi&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
   </a>
 </div>
 
