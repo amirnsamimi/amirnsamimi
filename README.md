@@ -40,10 +40,6 @@ A Front-end engineer with more couple of years experience in developing web appl
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
 
-# My Community
-  
-<img src="https://raw.githubusercontent.com/amirnsamimi/amirnsamimi/main/metrics.plugin.people.followers.svg"/>
-
 # Contact Me
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirnsamimi)&nbsp;
