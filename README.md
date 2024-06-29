@@ -60,10 +60,12 @@ A Front-end engineer with more couple of years experience in developing web appl
   <a href="https://github.com/amirnsamimi">
     <img width="49%" height="108em" src="https://github-readme-streak-stats.herokuapp.com?user=amirnsamimi&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
     <img width="49%" height="108em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirnsamimi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img width="49%" height="108em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirnsamimi&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+ 
 
 
   </a>
+
+     <img width="49%" height="108em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirnsamimi&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </div>
 ![Amir Samimi's's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirnsamimi&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97)
 
