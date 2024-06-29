@@ -1,7 +1,7 @@
 ## Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="35px" height="35px" />
 
 ## I am [Amir Samimi](https://amirnsamimi.com)
-A Front-end engineer with more couple of years experience in developing web applications, ERP solutions and CRM softwares. Someone who is interested and fascinated to develop complex apps experienced in web Development using JS/TS programming language. 
+A Front-end engineer with couple of years experience in developing web applications, ERP solutions and CRM softwares. Someone who is interested and fascinated to develop complex apps experienced in web Development using JS/TS programming language. 
 
 - 🔭 I’m currently working on Opal-Website and Food-courtWEB
 - 🌱 I’m currently learning ML and updating myself on VueJS
