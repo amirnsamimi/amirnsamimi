@@ -3,10 +3,9 @@
 ## I am [Amir Samimi](https://amirnsamimi.com)
 A Front-end engineer with couple of years experience in developing web applications, ERP solutions and CRM softwares. Someone who is interested and fascinated to develop complex apps using JS/TS programming language. 
 
-- 🔭 I’m currently working on Opal-Website and Food-courtWEB
-- 🌱 I’m currently learning ML and updating myself on VueJS
-- 👯 I’m looking to collaborate on Etalon
-- 🤔 I’m looking for a full time job in Germany
+- 🔭 I’m currently working on Front-end Projects.
+- 🌱 I’m currently learning Backend to complete my stack and be a full stack engineer.
+- 🤔 I’m looking open to remote Jobs in english and farsi.
 - 💬 Ask me about Front-end Solutions and Startups Business Strategies 
 - 📫 How to reach me: check contact
 
